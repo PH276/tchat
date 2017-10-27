@@ -1,0 +1,9 @@
+label
+{
+    float:left;
+    width: 100px;
+}
+.erreur{
+    background: red;
+    padding: 10px;
+}
